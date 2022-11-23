@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<frequentation>
+  <film>
+    <nom>Terra Willy : Planéte inconnue</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>150</nb-entree-enfant>
+    <nb-entree-adulte>250</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Les invisibles</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>3</nb-seance>
+    <nb-entree-enfant>70</nb-entree-enfant>
+    <nb-entree-adulte>310</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Les enfants du temps</nom>
+    <mois>juillet</mois>
+    <annee>2019</annee>
+    <nb-seance>1</nb-seance>
+    <nb-entree-enfant>10</nb-entree-enfant>
+    <nb-entree-adulte>150</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Alita : Battle Angel</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>4</nb-seance>
+    <nb-entree-enfant>310</nb-entree-enfant>
+    <nb-entree-adulte>424</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Avengers : EndGame</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>10</nb-entree-enfant>
+    <nb-entree-adulte>150</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Grâce à dieu</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>3</nb-seance>
+    <nb-entree-enfant>95</nb-entree-enfant>
+    <nb-entree-adulte>320</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Rocket man</nom>
+    <mois>juillet</mois>
+    <annee>2019</annee>
+    <nb-seance>5</nb-seance>
+    <nb-entree-enfant>248</nb-entree-enfant>
+    <nb-entree-adulte>620</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Mon frére</nom>
+    <mois>septembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>18</nb-entree-enfant>
+    <nb-entree-adulte>70</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Mes autres vies de chien</nom>
+    <mois>septembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>35</nb-entree-enfant>
+    <nb-entree-adulte>205</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Papicha</nom>
+    <mois>octobre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>69</nb-entree-enfant>
+    <nb-entree-adulte>182</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Donne-moi des ailes</nom>
+    <mois>novembre</mois>
+    <annee>2019</annee>
+    <nb-seance>3</nb-seance>
+    <nb-entree-enfant>230</nb-entree-enfant>
+    <nb-entree-adulte>270</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Camille</nom>
+    <mois>novembre</mois>
+    <annee>2019</annee>
+    <nb-seance>1</nb-seance>
+    <nb-entree-enfant>18</nb-entree-enfant>
+    <nb-entree-adulte>75</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Et puis nous danserons</nom>
+    <mois>novembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>82</nb-entree-enfant>
+    <nb-entree-adulte>112</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Le traite</nom>
+    <mois>décembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>53</nb-entree-enfant>
+    <nb-entree-adulte>92</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Douleur et gloire</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>16</nb-entree-enfant>
+    <nb-entree-adulte>69</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Les misérables</nom>
+    <mois>décembre</mois>
+    <annee>2019</annee>
+    <nb-seance>4</nb-seance>
+    <nb-entree-enfant>260</nb-entree-enfant>
+    <nb-entree-adulte>319</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Mon inconnue</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>1</nb-seance>
+    <nb-entree-enfant>30</nb-entree-enfant>
+    <nb-entree-adulte>75</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Dragons 3 : le monde caché</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>6</nb-seance>
+    <nb-entree-enfant>619</nb-entree-enfant>
+    <nb-entree-adulte>420</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Toy story 4</nom>
+    <mois>juin</mois>
+    <annee>2019</annee>
+    <nb-seance>7</nb-seance>
+    <nb-entree-enfant>580</nb-entree-enfant>
+    <nb-entree-adulte>534</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Joker</nom>
+    <mois>novembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>125</nb-entree-enfant>
+    <nb-entree-adulte>260</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Hors-normes</nom>
+    <mois>novembre</mois>
+    <annee>2019</annee>
+    <nb-seance>6</nb-seance>
+    <nb-entree-enfant>450</nb-entree-enfant>
+    <nb-entree-adulte>500</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>1917</nom>
+    <mois>septembre</mois>
+    <annee>2019</annee>
+    <nb-seance>3</nb-seance>
+    <nb-entree-enfant>96</nb-entree-enfant>
+    <nb-entree-adulte>93</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>J'ai perdu mon corps</nom>
+    <mois>décembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>9</nb-entree-enfant>
+    <nb-entree-adulte>26</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>A couteaux tirés</nom>
+    <mois>décembre</mois>
+    <annee>2019</annee>
+    <nb-seance>2</nb-seance>
+    <nb-entree-enfant>15</nb-entree-enfant>
+    <nb-entree-adulte>125</nb-entree-adulte>
+  </film>
+  <film>
+    <nom>Le mans 66</nom>
+    <mois>décembre</mois>
+    <annee>2019</annee>
+    <nb-seance>3</nb-seance>
+    <nb-entree-enfant>250</nb-entree-enfant>
+    <nb-entree-adulte>260</nb-entree-adulte>
+  </film>
+</frequentation>
